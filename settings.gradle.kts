@@ -6,3 +6,6 @@
  */
 
 rootProject.name = "scooP2Pdoo"
+include("common")
+include("tracker")
+include("peer")
